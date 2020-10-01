@@ -1,0 +1,13 @@
+.wrap{
+    display: flex;
+    width: 860px;
+    margin: 25px auto;
+    background-color: #b3d4d1;
+}
+
+.left{
+    color: white;
+    font-size: 22px;
+    padding: 170px 50px;
+    line-height: 1.3;
+}
